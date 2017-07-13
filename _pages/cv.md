@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B. Sc. in Computer Science, University of Barcelona, January 2010
+* M. Sc. in Artificial Intelligence, Barcelona Tech, July 2010
+* Ph.D in Machine Learning and Computer Vision, University of Barcelona, February 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2015 - June 2017: Postdoctoral Fellow
+  * Heidelberg University
+  * Research in Deep Unsupervised Feature Learning
+  * Published papers in NIPS16, CVPR17, GCPR17, ICCV17, PR and TPAMI
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* March 2012 - March 2015: Ph. D. Scholarship (Catalan Government Funds)
+  * University of Barcelona
+  * Research in Error-Correcting Output Codes and applications in Computer Vision 
+  * Supervisor: Dr. Sergio Escalera and Dr. Oriol Pujol
+  
+  
+* January 2013 - July 2013: Research Scholar
+  * Carnegie Mellon University
+  * Matrix Factorization methods for Learning Error-Correcting Codes from data
+  * Supervisor: Dr. Fernando De La Torre
+  
+  
   
 Skills
 ======
@@ -54,6 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
