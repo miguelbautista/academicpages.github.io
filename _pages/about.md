@@ -15,12 +15,12 @@ recognition, etc.). I received my B. Sc. and M. Sc. degrees in Computer Science 
 University of Barcelona and BarcelonaTech in January and June 2010, respectively. In 2010 I was also  the recipient of
 the Catalan Association of Artificial Intelligence awards. In 2013 I was a visitor at Carnegie Mellon University
 (advised by Dr. Fernando De La Torre), working on Matrix Factorization methods for learning Error-Correcting Codes.
-After earning my Ph. D. in 2015 I was a Postdoctoral Fellow with the Heidelberg Collaboratory for Image Processing
+After earning my Ph. D. in 2015 I held Postdoctoral Fellow position with the Heidelberg Collaboratory for Image Processing
 working on deep unsupervised methods for feature learning with Prof. Dr. Bjoern Ommer.
 
 News
 ======
-
+ - Jul. 2017: One paper accepted at ICCV17.
  - Jun. 2017: One paper accepted at GCPR17.
  - May 2017: I will be joining Apple Inc. as a Senior Research Scientist.
  - Feb. 2017: One paper accepted at CVPR17.
