@@ -12,13 +12,17 @@ author_profile: true
 {% include base_path %}
 
 
-* **Learning Where to Drive by Watching Others**
-MA Bautista, P Fuchs, B Ommer
-German Conference on Pattern Recognition, 29-40, 2017
+* **Learning Where to Drive by Watching Others**  
+    MA Bautista, P Fuchs, B Ommer  
+    German Conference on Pattern Recognition, 29-40, 2017  
 
-* **Unsupervised Video Understanding by Reconciliation of Posture Similarities**
-T Milbich, M Bautista, E Sutter, B Ommer
-IEEE International Conference Computer Vision, 2017
+
+* **Unsupervised Video Understanding by Reconciliation of Posture Similarities**  
+
+    T Milbich, M Bautista, E Sutter, B Ommer  
+
+    IEEE International Conference Computer Vision, 2017  
+
 
 
 * **Deep Unsupervised Similarity Learning using Partially Ordered Sets**
