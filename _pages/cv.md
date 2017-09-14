@@ -37,13 +37,16 @@ Work experience
   * Supervisor: Dr. Fernando De La Torre
   
   
-
-Publications
+Grants
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Computer Vision and Art History in Methodical and Practical Cooperation (2013-2017)
+  WIN-Kolleg funded by the Heidelberg Academy of Sciences and Humanities (HAW)
+  A dialogue about artistic recognition and similarity as well as casestudies in a wide range of artisic production should combine the two fields in the context of Computational Humanities
+  Co-PI with Prof. Dr. Bjoern Ommer
+  2500000 E
   
+
   
 
   

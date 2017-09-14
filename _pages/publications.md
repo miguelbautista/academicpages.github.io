@@ -5,11 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+_You can also find all my articles on <u><a href="{{https://scholar.google.es/citations?user=ZrRs-qoAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>_
+
+
 
 
 * **Learning Where to Drive by Watching Others**  
@@ -20,7 +19,6 @@ author_profile: true
 * **Unsupervised Video Understanding by Reconciliation of Posture Similarities**  
     T Milbich, M Bautista, E Sutter, B Ommer  
     IEEE International Conference Computer Vision, 2017  
-
 
 
 * **Deep Unsupervised Similarity Learning using Partially Ordered Sets**  
