@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel A. Bautista / Ph. D."
+title                    : "Miguel A. Bautista"
 title_separator          : "-"
 name                     : &name "Miguel A. Bautista"
 description              : &description "Senior Research Scientist in Deep Learning at Apple Inc."

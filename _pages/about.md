@@ -26,4 +26,3 @@ News
  - Feb. 2017: One paper accepted at CVPR17.
  - Jan. 2017: Our Error-Correcting Factorization paper is accepted at TPAMI.
  - Sep. 2016: Our CliqueCNN paper is accepted at NIPS16.
- - Mar. 2016: Thanks NVIDIA for supporting my research with a TITAN X! 
